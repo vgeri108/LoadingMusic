@@ -1,0 +1,13 @@
+{
+  "itemGroup.loadingmusic": "Example Mod Tab",
+  "block.loadingmusic.example_block": "Example Block",
+  "item.loadingmusic.example_item": "Example Item",
+
+  "loadingmusic.configuration.title": "Example Mod Configs",
+  "loadingmusic.configuration.section.loadingmusic.common.toml": "Example Mod Configs",
+  "loadingmusic.configuration.section.loadingmusic.common.toml.title": "Example Mod Configs",
+  "loadingmusic.configuration.items": "Item List",
+  "loadingmusic.configuration.logDirtBlock": "Log Dirt Block",
+  "loadingmusic.configuration.magicNumberIntroduction": "Magic Number Text",
+  "loadingmusic.configuration.magicNumber": "Magic Number"
+}
